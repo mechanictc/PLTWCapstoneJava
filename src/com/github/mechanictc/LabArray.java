@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 //@author Nathan Kwok
-public class Main {
+public class LabArray {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		ArrayList<String> contestants = new ArrayList<>();
